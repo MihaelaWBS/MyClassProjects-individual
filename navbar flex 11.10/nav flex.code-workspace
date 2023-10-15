@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../WBS"
+		},
+		{
+			"path": "../Big project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "navbar flex 11.10"
+	}
+}

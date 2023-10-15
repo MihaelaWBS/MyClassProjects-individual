@@ -1,0 +1,27 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+h1 {
+	text-align: center;
+}
+
+nav {
+	background-color: gray;
+	padding: 20px;
+}
+
+nav ul {
+	display: flex;
+	justify-content: space-around;
+	list-style: none;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: #8b0e6a;
+	font-weight: 700;
+}
