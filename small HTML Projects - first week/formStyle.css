@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #007c75d6;
+}
+
+.form-container {
+	margin: 50px 30px;
+	padding: 10px;
+	border-radius: 3px;
+	background-color: #c790b3;
+	text-align: center;
+}
+
+fieldset {
+	margin: 50px 30px;
+	padding: 10px;
+	border: 1px, solid black;
+	border-radius: 3px;
+}
+
+legend {
+	text-align: left;
+	margin: 10px;
+	font-weight: bold;
+}
+
+label,
+input,
+textarea {
+	display: block;
+	margin: auto;
+}
+
+label {
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+button {
+	display: block;
+	padding: 5px;
+	margin: 10px auto;
+	border-radius: 10px;
+	background-color: #7d0041;
+	color: #bbd2d1;
+}
